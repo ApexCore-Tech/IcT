@@ -1,0 +1,2 @@
+# IcT
+Industrial config template.
